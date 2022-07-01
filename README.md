@@ -9,4 +9,4 @@ This code covers the below use-cases;
  - The files will be downloaded to the current working directory. 
  - Outputs number of videos in the playlist, video title, video quality which automatically selected for download, file size, download progress / status, download path and remaining video counter.
  
- For more code explanation please visit: 
+ For more code explanation please visit: https://harshananayakkara.medium.com/download-youtube-videos-from-any-playlist-python-pytube-d19107404a29
