@@ -27,7 +27,6 @@ print("Downloading started...")
 
 #for every video in the playlist
 for vids in pl.videos:
-    #progressive_stream_list = yt_vids.streams.filter(file_extension='mp4', progressive=True) #filter to get only progressive MP4 streams
 
     vid_url = vids.watch_url
     yt = YouTube(url = vid_url, on_progress_callback=on_progress, on_complete_callback=on_complete) #create Youtube obj
