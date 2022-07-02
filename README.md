@@ -1,5 +1,5 @@
-# pytube_youtube_video_downloader
-Download entire videos from YouTube Playlist. Designed by using Pytube.
+# youtube Playlist Downloader [Python + Pytube]
+Download entire list of videos from YouTube Playlist to your local disk. Designed by using Pytube.
 
 This code covers the below use-cases;
 
